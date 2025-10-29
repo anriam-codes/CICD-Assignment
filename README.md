@@ -20,7 +20,7 @@ Through this experiment, we learn how to create, configure, and connect to a vir
 
 ### 3. Configure Instance Details
 - **Name:** `MyWindowsServer`  
-- **AMI (Amazon Machine Image):** Select *Windows Server 2019 Base*  
+- **AMI (Amazon Machine Image):** Select *Windows Server 2025 Base*  
 - **Instance Type:** Choose *t2.micro* (Free tier eligible)  
 - **Key Pair:** Create or select an existing key pair and download the `.pem` file  
 - **Network Settings:** Enable **RDP (port 3389)** under security group rules  
