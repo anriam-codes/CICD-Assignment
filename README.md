@@ -4,7 +4,7 @@
 The aim of this lab is to **launch a Windows EC2 instance on AWS** and **access it remotely** from a local Windows machine using **Remote Desktop Connection (RDP)**.  
 Through this experiment, we learn how to create, configure, and connect to a virtual Windows machine hosted in the cloud — demonstrating the core concept of **Infrastructure as a Service (IaaS)** in cloud computing.
 
-🎥 <h3>Lab Demonstration Video: <a href="https://youtu.be/5-YWgwLRsVE" target="_blank">Watch on YouTube</a></h2>
+<h3>🎥 Lab Demonstration Video: <a href="https://youtu.be/5-YWgwLRsVE" target="_blank">Watch on YouTube</a></h3>
 
 ---
 
